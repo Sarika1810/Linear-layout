@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Absolute Layout"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:layout_x="40dp"
+        android:layout_y="60dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name-Isha "
+        android:layout_x="50dp"
+        android:layout_y="120dp"
+        android:textSize="25dp"
+        android:textStyle="italic"
+
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age-20"
+        android:textSize="25dp"
+        android:layout_x="50dp"
+        android:layout_y="150dp"
+        android:textStyle="italic"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile Number-7276772028"
+        android:layout_x="50dp"
+        android:layout_y="180dp"
+        android:textSize="25dp"
+        android:textStyle="italic"
+
+
+        />
+
+
+
+
+</AbsoluteLayout>
